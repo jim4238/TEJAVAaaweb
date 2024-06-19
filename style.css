@@ -135,7 +135,7 @@
 }
 .box05{
     width: 1920px;
-    height: 95px;
+    height: 100px;
     margin: auto;
     top: 4078px;
     background-color: #912D29;
@@ -205,17 +205,20 @@
     width: 1920px;
     height: 1230px;
     margin: auto;
-    background-color: #F6CD95;
+    background-image: url(img/img15.png);
+    background-position: center;
+    background-size: cover;
     position: relative;
 }
 .cont16{
-    width: 1100px;
-    height: 1230px;
-    top: 232px;
+    width: 1119px;
+    height: 804px;
+    margin: 0 auto;
+    top: 214px;
     left: 410px;
     position: absolute;
 }
-.box09{
+/* .box09{
     width: 83px;
     height: 1230px;
     margin: auto;
@@ -229,4 +232,4 @@
     right: 0px;
     background-color:#912E29;
     position: absolute;
-}
+} */
